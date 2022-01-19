@@ -1,0 +1,15 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(üç‡ÿÿÿÿÿ8†ƒª†ã/
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ŒËÑ8‡ƒª†ã/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ŒËÑ8ƒª†ã/
+Z
+java:S1854"8Remove this useless assignment to local variable "temp".(”ˆµÍıÿÿÿÿ8‘ƒª†ã/
+K
+java:S1481")Remove this unused "temp" local variable.(ŞŞ‡ˆùÿÿÿÿ8›ƒª†ã/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µŠ İ8Ëƒª†ã/
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‡‹éªøÿÿÿÿ8Îƒª†ã/
+0
+java:S1220""Move this file to a named package.
