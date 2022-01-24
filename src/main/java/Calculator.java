@@ -2,7 +2,7 @@
 
 import java.util.ArrayList;
 
-public class StringCalculator {
+public class Calculator {
     public int add(String values) throws Exception { //"1,1"
         if(values.length() > 0) {
             int temp;
@@ -19,6 +19,7 @@ public class StringCalculator {
                         delimiter = "" + values.charAt(0);}
                 }
             }
+            
             String[] splittedList2=values.split("");
             String hola="";
             boolean aux=true;
